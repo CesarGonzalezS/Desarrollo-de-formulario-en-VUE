@@ -12,7 +12,7 @@ Fotografía (PNG) - Validar el tamaño del archivo a menos de 3 mb
 Informar al usuario el problema con su formulario cuando haga falta algún dato o formato.
 
 
-Capturas de las capturas:
+Capturas:
 <img width="960" alt="Captura1" src="https://github.com/CesarGonzalezS/Desarrollo-de-formulario-en-VUE/assets/94254731/ea911cd7-ea49-4c73-93e9-aa92a7f4960e">
 <img width="960" alt="Captura2" src="https://github.com/CesarGonzalezS/Desarrollo-de-formulario-en-VUE/assets/94254731/2a489c69-1179-4db2-879f-9118a65ae45e">
 <img width="960" alt="Captura3" src="https://github.com/CesarGonzalezS/Desarrollo-de-formulario-en-VUE/assets/94254731/0044c5b8-a6ac-4c8a-9ffd-e642dd6116c9">
